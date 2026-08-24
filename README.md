@@ -5,7 +5,7 @@ A hands-on SOC monitoring project built with Splunk Enterprise on macOS and Kali
 ## Architure
 ![Architecture](architecture.png)
 
-## Detection rules
+## Detection Rules
 | Detection | Description |
 |-----------|-------------|
 | SSH Brute Force | Multiple failed SSH logins from one IP |
