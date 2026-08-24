@@ -15,8 +15,6 @@ A hands-on SOC monitoring project built with Splunk Enterprise on macOS and Kali
 ## Dashboard
 The Splunk dashboard provides a centralized view of security events, including authentication failures, network scanning activity, and privileged commands.
 
-![Splunk Dashboard](images/dashboard.png)
-
 ## Technologies
 - Splunk Enterprise
 - Splunk Universal Forwarder
