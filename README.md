@@ -9,7 +9,7 @@ A hands-on SOC monitoring project built with Splunk Enterprise on macOS and Kali
 | Detection | Description |
 |-----------|-------------|
 | SSH Brute Force | Multiple failed SSH logins from one IP |
-| Network Scanning | Analysis of Nmap scan results |
+| Network Scanning | Detects TCP port scanning based on firewall logs and multiple destination ports |
 | Privileged Activity | Monitoring sudo commands executed as root |
 
 ## Dashboard
